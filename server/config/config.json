@@ -1,0 +1,10 @@
+{
+    "appPort": "8080",
+    "appTestPort": "3002",
+    "mainUrl": "{{MAIN_URL}}",
+    "adminUrl": "http://localhost:8080",
+    "https" : true,
+
+    "accessTokenKey": "rvcpzf5n2rxdoa7ey2a39rldavfb3bmu",
+    "refreshTokenKey": "vk5y553l4tobsagk5046g9luosez34ji"
+}
